@@ -1,2 +1,2 @@
 ## -*- docker-image-name: "scaleway/coreos:latest" -*-
-FROM moul/coreos-img:stable-899.13.0
+FROM cornelius/scw-coreos-img:stable-1068.8.0
